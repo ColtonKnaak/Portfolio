@@ -4,4 +4,3 @@ This Portfolio was made to showcase my understanding of HTML, and CSS. As well a
 ## Technologies Used
 * HTML
 * CSS
-* JavaScrpit
